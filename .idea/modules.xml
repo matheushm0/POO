@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estação Ferrovíaria/Estação Ferrovíaria.iml" filepath="$PROJECT_DIR$/Estação Ferrovíaria/Estação Ferrovíaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lâmpada/Lâmpada.iml" filepath="$PROJECT_DIR$/Lâmpada/Lâmpada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objeto.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objeto.iml" />
     </modules>
   </component>
