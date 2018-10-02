@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa658053-c053-4dc9-be28-bad527858d62" name="Default Changelist" comment="Projetos de POO">
+      <change afterPath="$PROJECT_DIR$/Lista 2/Lista 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java" beforeDir="false" afterPath="$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estação Ferrovíaria/Estação Ferrovíaria.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,43 +16,49 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Programação_Orientada_a_Objeto$MainRetangulo.ic" NAME="MainRetangulo Coverage Results" MODIFIED="1538486255356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-461809179">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="9" />
-          <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.6" value="12" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="22" />
+          <entry key="clear" value="2" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="36" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="22" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="36" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4185" />
+          <entry key="java" value="5349" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4185" />
+          <entry key="JAVA" value="5349" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -57,38 +66,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/src/Retangulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/src/MainRetangulo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -120,6 +115,10 @@
         <option value="$PROJECT_DIR$/src/testando.java" />
         <option value="$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java" />
         <option value="$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java" />
+        <option value="$PROJECT_DIR$/Banco/src/Conta.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questão 2/Retangulo.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questão 2/src/Retangulo.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questão 2/src/MainRetangulo.java" />
       </list>
     </option>
   </component>
@@ -130,7 +129,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+    <option name="x" value="739" />
+    <option name="y" value="-4" />
     <option name="width" value="968" />
     <option name="height" value="1047" />
   </component>
@@ -140,8 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,30 +150,45 @@
             <path>
               <item name="Programação Orientada a Objeto" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programação Orientada a Objeto" type="462c0819:PsiDirectoryNode" />
-              <item name="Estação Ferrovíaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programação Orientada a Objeto" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programação Orientada a Objeto" type="462c0819:PsiDirectoryNode" />
-              <item name="Estação Ferrovíaria" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Questão 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programação Orientada a Objeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programação Orientada a Objeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Questão 2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programação Orientada a Objeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programação Orientada a Objeto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537188266142" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538486705119" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lista 2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testando">
+  <component name="RunManager" selected="Application.MainRetangulo">
     <configuration name="FuncLamp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FuncLamp" />
       <module name="Lâmpada" />
@@ -204,15 +217,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1" />
-      <module name="Programação Orientada a Objeto" />
+    <configuration name="MainRetangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainRetangulo" />
+      <module name="Questão 2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numeros" />
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q1" />
       <module name="Programação Orientada a Objeto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,19 +239,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.numeros" />
       <item itemvalue="Application.Q1" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.FuncLamp" />
       <item itemvalue="Application.testando" />
+      <item itemvalue="Application.MainRetangulo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainRetangulo" />
         <item itemvalue="Application.testando" />
         <item itemvalue="Application.Q1" />
         <item itemvalue="Application.FuncLamp" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.numeros" />
       </list>
     </recent_temporary>
   </component>
@@ -274,6 +287,12 @@
       <workItem from="1535980608972" duration="60000" />
       <workItem from="1536183026553" duration="719000" />
       <workItem from="1537186938636" duration="1326000" />
+      <workItem from="1537230003532" duration="259000" />
+      <workItem from="1537915031004" duration="208000" />
+      <workItem from="1538436839443" duration="125000" />
+      <workItem from="1538484803256" duration="249000" />
+      <workItem from="1538485071478" duration="1220000" />
+      <workItem from="1538486310982" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="Projetos de POO">
       <created>1537187783623</created>
@@ -293,7 +312,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7915000" />
+    <option name="totallyTimeSpent" value="10369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -306,14 +325,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27665246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -324,7 +345,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.32104123" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3264642" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3264642" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49946696" weight="0.32104123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -374,6 +395,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Estação Ferrovíaria" />
+    </ignored-roots>
     <MESSAGE value="Projetos de POO" />
     <option name="LAST_COMMIT_MESSAGE" value="Projetos de POO" />
   </component>
@@ -383,24 +407,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/numeros.java" />
     <entry file="file://$PROJECT_DIR$/src/helloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -411,21 +421,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lâmpada/src/Lamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lâmpada/src/FuncLamp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java" />
+    <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java" />
+    <entry file="file://$PROJECT_DIR$/Banco/Estação.iml" />
+    <entry file="file://$PROJECT_DIR$/Banco/src/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lâmpada/src/Lamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/Retangulo.java" />
+    <entry file="file://$PROJECT_DIR$/clear">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/Questão 2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -436,38 +473,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Estacao.java">
+    <entry file="file://$PROJECT_DIR$/src/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-          </folding>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Estação Ferrovíaria/src/Locomotiva.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/src/MainRetangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questão 2/src/Retangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,7 +557,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Lâmpada</last-edited>
+          <last-edited>Lista 2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

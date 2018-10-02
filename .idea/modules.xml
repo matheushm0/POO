@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Estação Ferrovíaria/Estação Ferrovíaria.iml" filepath="$PROJECT_DIR$/Estação Ferrovíaria/Estação Ferrovíaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 2/Lista 2.iml" filepath="$PROJECT_DIR$/Lista 2/Lista 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lâmpada/Lâmpada.iml" filepath="$PROJECT_DIR$/Lâmpada/Lâmpada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programação Orientada a Objeto.iml" filepath="$PROJECT_DIR$/Programação Orientada a Objeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista 2/Questão 2/Questão 2.iml" filepath="$PROJECT_DIR$/Lista 2/Questão 2/Questão 2.iml" />
     </modules>
   </component>
 </project>
