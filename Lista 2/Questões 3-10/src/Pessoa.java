@@ -1,15 +1,28 @@
-import java.util.Date;
-
 public class Pessoa {
 
-    private String nome;
-    private String cpf;
-    private Date nascimento;
-    private String logradouro;
-    private String numero;
-    private String bairro;
-    private String cidade;
-    private String uf;
+    protected String nome;
+    protected String cpf;
+    protected String nascimento;
+    protected String logradouro;
+    protected String numero;
+    protected String bairro;
+    protected String cidade;
+    protected String uf;
+
+    public Pessoa(){
+
+    }
+
+    public Pessoa(String nome, String cpf, String nascimento, String logradouro, String numero, String bairro, String cidade, String uf) {
+        this.nome = nome;
+        this.cpf = cpf;
+        this.nascimento = nascimento;
+        this.logradouro = logradouro;
+        this.numero = numero;
+        this.bairro = bairro;
+        this.cidade = cidade;
+        this.uf = uf;
+    }
 
     public String getNome() {
         return nome;
@@ -27,11 +40,11 @@ public class Pessoa {
         this.cpf = cpf;
     }
 
-    public Date getNascimento() {
+    public String getNascimento() {
         return nascimento;
     }
 
-    public void setNascimento(Date nascimento) {
+    public void setNascimento(String nascimento) {
         this.nascimento = nascimento;
     }
 
@@ -78,14 +91,14 @@ public class Pessoa {
     public String toString(){
 
         String str = "";
-        str = str + "Nome: " +this.nome;
-        str = str + "CPF: " this.cpf;
-        str = str + "Data de Nascimento: " +this.nascimento;
-        str = str + "Logradouro: " + this.logradouro;
-        str = str + "Número: " + this.numero;
-        str = str + "Bairro: "+ this.bairro;
-        str = str + "Cidade: "+ this.cidade;
-        str = str + "UF: " + this.uf;
+        str = str + "Nome: " +this.nome + "\n";
+        str = str + "CPF: " + this.cpf + "\n";
+        str = str + "Data de Nascimento: " +this.nascimento + "\n";
+        str = str + "Logradouro: " + this.logradouro + "\n";
+        str = str + "Número: " + this.numero + "\n";
+        str = str + "Bairro: "+ this.bairro + "\n";
+        str = str + "Cidade: "+ this.cidade + "\n";
+        str = str + "UF: " + this.uf + "\n";
 
         return str;
 
