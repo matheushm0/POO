@@ -1,7 +1,15 @@
-public class Funcionario extends Pessoa{
+public class VendedorDeConcessionaria extends Pessoa{
 
     private String cargo;
     private double salario;
+
+    public VendedorDeConcessionaria(String nome, String cpf, String nascimento, String logradouro, String numero, String bairro, String cidade, String uf, String cargo, double salario){
+
+        super(nome,cpf,nascimento,logradouro,numero,bairro,cidade,uf);
+        this.cargo = cargo;
+        this.salario = salario;
+
+    }
 
     public String getCargo(){
 
@@ -25,15 +33,6 @@ public class Funcionario extends Pessoa{
 
     }
 
-
-    public Funcionario(String nome, String cpf, String nascimento, String logradouro, String numero, String bairro, String cidade, String uf, String cargo, double salario){
-
-        super(nome,cpf,nascimento,logradouro,numero,bairro,cidade,uf);
-        this.cargo = cargo;
-        this.salario = salario;
-
-    }
-
     public String toString(){
 
         String str = "";
@@ -52,4 +51,14 @@ public class Funcionario extends Pessoa{
         return str;
 
     }
+
+    public void comissao(double valor){
+
+        this.salario = this.salario + (valor*0.1);
+
+        System.out.println("Novo salário: " + this.salario);
+
+
+    }
+
 }

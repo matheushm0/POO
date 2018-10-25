@@ -5,19 +5,16 @@ public class Carro extends Pessoa {
     protected String anoDeFabricacao;
     protected Pessoa proprietario;
     protected String chassi;
-    private double tanque;
-    private double velocidadeFinal;
+    protected double tanque;
+    protected double velocidadeFinal;
 
-    public Carro(String nome, String cpf, String nascimento, String logradouro, String numero, String bairro, String cidade, String uf, String marca, String modelo, String anoDeFabricacao, Pessoa proprietario, String chassi) {
-        super(nome, cpf, nascimento, logradouro, numero, bairro, cidade, uf);
+    public Carro(String marca, String modelo, String anoDeFabricacao, String chassi, double tanque, double velocidadeFinal) {
         this.marca = marca;
         this.modelo = modelo;
         this.anoDeFabricacao = anoDeFabricacao;
-        this.proprietario = proprietario;
         this.chassi = chassi;
-    }
-
-    public Carro(String marca, String modelo, String anoDeFabricacao, String chassi) {
+        this.tanque = tanque;
+        this.velocidadeFinal = velocidadeFinal;
     }
 
     public String getMarca() {
@@ -40,16 +37,32 @@ public class Carro extends Pessoa {
         return anoDeFabricacao;
     }
 
-    public void setAnoDeFabricacao(String anoDeFabricacao) {
-        this.anoDeFabricacao = anoDeFabricacao;
-    }
-
     public Pessoa getProprietario() {
         return proprietario;
     }
 
     public void setProprietario(Pessoa proprietario) {
         this.proprietario = proprietario;
+    }
+
+    public double getTanque() {
+        return tanque;
+    }
+
+    public void setTanque(double tanque) {
+        this.tanque = tanque;
+    }
+
+    public double getVelocidadeFinal() {
+        return velocidadeFinal;
+    }
+
+    public void setVelocidadeFinal(double velocidadeFinal) {
+        this.velocidadeFinal = velocidadeFinal;
+    }
+
+    public void setAnoDeFabricacao(String anoDeFabricacao) {
+        this.anoDeFabricacao = anoDeFabricacao;
     }
 
     public String getChassi() {
@@ -63,11 +76,13 @@ public class Carro extends Pessoa {
     public String toString() {
 
         String str = "";
-        str = str + proprietario + "\n";
         str = str + "Marca: " + this.marca + "\n";
         str = str + "Modelo: " + this.modelo + "\n";
         str = str + "Ano de Fabricação: " + this.anoDeFabricacao + "\n";
         str = str + "Chassi: " + this.chassi + "\n";
+        str = str + "Capacidade do tanque: " + this.tanque + "L" + "\n";
+        str = str + "Velocidade final: " + this.velocidadeFinal + "km/h" + "\n";
+
 
         return str;
     }

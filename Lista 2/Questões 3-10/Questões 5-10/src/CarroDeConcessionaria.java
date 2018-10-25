@@ -2,8 +2,8 @@ public class CarroDeConcessionaria extends Carro {
 
     private double valorDeVenda;
 
-    public CarroDeConcessionaria(String marca, String modelo, String anoDeFabricacao,  String chassi, double valorDeVenda) {
-        super(marca, modelo, anoDeFabricacao, chassi);
+    public CarroDeConcessionaria(String marca, String modelo, String anoDeFabricacao, String chassi, double tanque, double velocidadeFinal, double valorDeVenda) {
+        super(marca, modelo, anoDeFabricacao, chassi, tanque, velocidadeFinal);
         this.valorDeVenda = valorDeVenda;
     }
 
@@ -18,9 +18,7 @@ public class CarroDeConcessionaria extends Carro {
     public String toString(){
 
         String str = "";
-        str = str + "Marca: " + this.marca + "\n";
-        str = str + "Modelo: " + this.modelo + "\n";
-        str = str + "Ano de Fabricação: " + this.anoDeFabricacao + "\n";
+        str = str + "Valor de venda: " + this.valorDeVenda + "\n";
         return str;
     }
 

@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa658053-c053-4dc9-be28-bad527858d62" name="Default Changelist" comment="Projetos de POO">
-      <change afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/Questões 5-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/VendedorDeConcessionaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinandoExceção/TreinandoExceção.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinandoExceção/src/FabricaLampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreinandoExceção/src/Lampada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista 2/Questões 3-10/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/src/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Questões 3-10/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questões 3-10/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/CarroDeConcessionaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/CarroDeConcessionaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questões 5-10/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questões 5-10/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questões 5-10/CarroDeConcessionaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questões 5-10/CarroDeConcessionaria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questões 5-10/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Questões 5-10/MainCarro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Questões 5-10/MainCarro.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,48 +25,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Programação_Orientada_a_Objeto$Execucao.ic" NAME="Execucao Coverage Results" MODIFIED="1539783367205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Programação_Orientada_a_Objeto$MainRetangulo.ic" NAME="MainRetangulo Coverage Results" MODIFIED="1538486255356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-461809179">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="39" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="13" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.open.time.6" value="16" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="clear" value="2" />
           <entry key="iml" value="5" />
-          <entry key="java" value="61" />
+          <entry key="java" value="111" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="5" />
-          <entry key="JAVA" value="61" />
+          <entry key="JAVA" value="111" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12115" />
+          <entry key="java" value="15915" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12115" />
+          <entry key="JAVA" value="15915" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -66,10 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java">
+        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="2057">
+              <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -77,59 +90,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/CarroDeConcessionaria.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/VendedorDeConcessionaria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Concessionaria.java">
+        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Empresa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Funcionario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Pessoa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="935">
+              <caret line="83" column="71" selection-start-line="83" selection-start-column="71" selection-end-line="83" selection-end-column="71" />
+              <folding>
+                <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#1250#1251#0" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
+                <element signature="e#1328#1329#0" expanded="true" />
+                <element signature="e#1366#1367#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +138,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Date</find>
+      <find>vl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -181,7 +174,15 @@
         <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/src/Concessionaria.java" />
         <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/src/MainCarro.java" />
         <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Concessionaria.java" />
+        <option value="$PROJECT_DIR$/TreinandoExceção/src/Lampada.java" />
+        <option value="$PROJECT_DIR$/TreinandoExceção/src/FabricaLampada.java" />
+        <option value="$PROJECT_DIR$/TreinandoExceção/src/Execucao.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Funcionario.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/VendedorDeConcessionaria.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/CarroDeConcessionaria.java" />
         <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java" />
+        <option value="$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainTeste.java" />
       </list>
     </option>
   </component>
@@ -202,6 +203,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,26 +239,16 @@
               <item name="Questões 5-10" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Programação Orientada a Objeto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programação Orientada a Objeto" type="462c0819:PsiDirectoryNode" />
-              <item name="Lista 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Questões 3-10" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539005075132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540340874982" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Lista 2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -275,6 +269,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MainCarro">
+    <configuration name="Execucao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execucao" />
+      <module name="TreinandoExceção" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Questões 3-10" />
@@ -289,9 +290,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainRetangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainRetangulo" />
-      <module name="Questão 2" />
+    <configuration name="MainTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainTeste" />
+      <module name="Questões 5-10" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -303,27 +304,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testando" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testando" />
-      <module name="Programação Orientada a Objeto" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.testando" />
-      <item itemvalue="Application.MainRetangulo" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Teste" />
       <item itemvalue="Application.MainCarro" />
+      <item itemvalue="Application.Execucao" />
+      <item itemvalue="Application.MainTeste" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainCarro" />
+        <item itemvalue="Application.MainTeste" />
+        <item itemvalue="Application.Execucao" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.MainRetangulo" />
-        <item itemvalue="Application.testando" />
       </list>
     </recent_temporary>
   </component>
@@ -368,6 +362,14 @@
       <workItem from="1538658575369" duration="1634000" />
       <workItem from="1538742226876" duration="3564000" />
       <workItem from="1539001889862" duration="3215000" />
+      <workItem from="1539782265475" duration="2495000" />
+      <workItem from="1540298166288" duration="2513000" />
+      <workItem from="1540302098593" duration="1348000" />
+      <workItem from="1540332753562" duration="941000" />
+      <workItem from="1540333783155" duration="1086000" />
+      <workItem from="1540335149750" duration="29000" />
+      <workItem from="1540339437015" duration="1437000" />
+      <workItem from="1540340902364" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Projetos de POO">
       <created>1537187783623</created>
@@ -387,7 +389,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20002000" />
+    <option name="totallyTimeSpent" value="29875000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,9 +402,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22654584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -412,15 +413,15 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33188722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.12689805" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32104123" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.31995663" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3264642" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.31995663" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49840087" weight="0.31995663" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -431,9 +432,10 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21375267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -442,16 +444,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33188722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.12689805" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32212582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.31995663" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3264642" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49840087" weight="0.31995663" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -461,6 +464,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32995737" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,10 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,123 +592,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" column="47" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/MainCarro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Concessionaria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Empresa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" selection-start-line="78" selection-end-line="85" selection-end-column="44" />
-          <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#746#747#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-            <element signature="e#1148#1149#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1290#1291#0" expanded="true" />
-            <element signature="e#1323#1324#0" expanded="true" />
-            <element signature="e#1352#1353#0" expanded="true" />
-            <element signature="e#1396#1397#0" expanded="true" />
-            <element signature="e#1432#1433#0" expanded="true" />
-            <element signature="e#1465#1466#0" expanded="true" />
-            <element signature="e#1494#1495#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1574#1575#0" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-            <element signature="e#1628#1629#0" expanded="true" />
-            <element signature="e#1664#1665#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/CarroDeConcessionaria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
-          <folding>
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Carro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1093#1094#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1221#1222#0" expanded="true" />
-            <element signature="e#1277#1278#0" expanded="true" />
-            <element signature="e#1325#1326#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-            <element signature="e#1387#1388#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/MainCarro.java" />
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Concessionaria.java" />
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Empresa.java" />
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/CarroDeConcessionaria.java" />
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Carro.java" />
     <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Funcionario.java" />
+    <entry file="file://$PROJECT_DIR$/TreinandoExceção/src/Lampada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreinandoExceção/src/FabricaLampada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TreinandoExceção/src/Execucao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -719,10 +636,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Funcionario.java">
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Concessionaria.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="1642" column="18" selection-start-line="1642" selection-start-column="18" selection-end-line="1642" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -733,37 +657,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java">
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="15" selection-start-line="15" selection-end-line="38" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Concessionaria.java">
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainTeste.java" />
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/MainCarro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="2057">
+          <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/CarroDeConcessionaria.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/VendedorDeConcessionaria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lista 2/Questões 3-10/Questões 5-10/src/Carro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="935">
+          <caret line="83" column="71" selection-start-line="83" selection-start-column="71" selection-end-line="83" selection-end-column="71" />
+          <folding>
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -819,7 +757,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Questões 3-10</last-edited>
+          <last-edited>Questões 5-10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
