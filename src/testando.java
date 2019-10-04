@@ -4,11 +4,11 @@ public class testando {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
-        int i;
+        int x;
 
-        for(i = 0; i <= n; i ++){
+        for(x = 0; x <= n; x ++){
 
-            i = sc.nextInt();
+            x = sc.nextInt();
 
         }
         System.out.println();
